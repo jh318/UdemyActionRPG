@@ -22,47 +22,6 @@
     "IsDnD": false,
     "layers": [
         {
-            "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Dirtwalls",
-            "id": "dbf0cc88-0e8d-4b8c-abc2-68e298e6c6d0",
-            "depth": -100,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "layers": [
-
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "modelName": "GMRTileLayer",
-            "prev_tileheight": 32,
-            "prev_tilewidth": 32,
-            "mvc": "1.0",
-            "tiles": {
-                "SerialiseData": null,
-                "SerialiseHeight": 6,
-                "SerialiseWidth": 10,
-                "TileSerialiseData": [
-                    6,1,3,4,4,4,4,4,4,13,
-                    6,1,1,1,1,1,1,1,1,12,
-                    6,1,1,1,1,1,10,5,1,12,
-                    6,1,1,1,1,1,3,2,1,3,
-                    15,14,5,1,1,1,1,1,1,1,
-                    17,17,15,14,14,14,14,14,14,14
-                ]
-            },
-            "tilesetId": "55869061-3e19-4aef-b2fb-3355934e607f",
-            "userdefined_depth": false,
-            "visible": true,
-            "x": 0,
-            "y": 0
-        },
-        {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "ef04717f-90cc-4845-abd2-8f039c0f5688",
@@ -100,9 +59,50 @@
         },
         {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Dirtwalls",
+            "id": "dbf0cc88-0e8d-4b8c-abc2-68e298e6c6d0",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRTileLayer",
+            "prev_tileheight": 32,
+            "prev_tilewidth": 32,
+            "mvc": "1.0",
+            "tiles": {
+                "SerialiseData": null,
+                "SerialiseHeight": 6,
+                "SerialiseWidth": 10,
+                "TileSerialiseData": [
+                    6,1,3,4,4,4,4,4,4,13,
+                    6,1,1,1,1,1,1,1,1,12,
+                    6,1,1,1,1,1,10,5,1,12,
+                    6,1,1,1,1,1,3,2,1,3,
+                    15,14,5,1,1,1,1,1,1,1,
+                    17,17,15,14,14,14,14,14,14,14
+                ]
+            },
+            "tilesetId": "55869061-3e19-4aef-b2fb-3355934e607f",
+            "userdefined_depth": false,
+            "visible": true,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Dirtpaths",
             "id": "33de5c91-3f80-4d37-8ff2-cd3223b0489d",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -152,7 +152,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

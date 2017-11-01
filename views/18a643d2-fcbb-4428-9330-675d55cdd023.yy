@@ -9,7 +9,8 @@
         "21171560-ac24-44bb-af46-6953dfb15b18",
         "4f5cfd2f-ecbe-4424-969f-80ec54560713",
         "be14e3f1-339c-42bd-9365-1721b107a499",
-        "3370a506-beb2-4622-83dd-2ac5e4e827c4"
+        "3370a506-beb2-4622-83dd-2ac5e4e827c4",
+        "e5ea4db2-7ddb-4dc5-88cf-0dac988cea8e"
     ],
     "filterType": "GMScript",
     "folderName": "Movement Scripts",
